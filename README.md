@@ -1,2 +1,2 @@
-# version_control
-Demo repository for version control
+# Git Training Sandbox
+Sandbox repo for Git training.
