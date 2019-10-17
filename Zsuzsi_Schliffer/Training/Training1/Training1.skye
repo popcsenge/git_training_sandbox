@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="7.15.0.16">
+  <Definitions>
+    <Definition Filename="Definitions\Application\Application.zip" />
+    <Definition Filename="Definitions\Authorization\DefaultAuthorizationModel.zip" />
+    <Definition Filename="Definitions\Htmlcomponent\DashboardSection1HTMLComponent.zip" />
+    <Definition Filename="Definitions\Htmlcomponent\DashboardSection2HTMLComponent.zip" />
+    <Definition Filename="Definitions\Modelselectorcomponent\MyProductSelectorProductComponent.zip" />
+    <Definition Filename="Definitions\Modelselectorcomponent\MyProductSelectorZoneComponent.zip" />
+    <Definition Filename="Definitions\Process\FamilyInsuranceCreatePolicy.zip" />
+    <Definition Filename="Definitions\Process\HomeCreatePolicy.zip" />
+    <Definition Filename="Definitions\Process\MotorCreatePolicy.zip" />
+    <Definition Filename="Definitions\Productcategorization\ProductCategorization.zip" />
+    <Definition Filename="Definitions\Product\FamilyInsurance.zip" />
+    <Definition Filename="Definitions\Product\Home.zip" />
+    <Definition Filename="Definitions\Product\Motor.zip" />
+    <Definition Filename="Definitions\Search\CallcenterAutomaticSearch.zip" />
+    <Definition Filename="Definitions\Search\FreeTextSearch.zip" />
+    <Definition Filename="Definitions\Search\ReferralSearch.zip" />
+    <Definition Filename="Definitions\Shoppingcartitem\ShoppingcartItem.zip" />
+    <Definition Filename="Definitions\Shoppingcart\Shoppingcart.zip" />
+    <Definition Filename="Definitions\Uidefinition\FamilyInsuranceCreatePolicyConfirmationUIDefinition.zip" />
+    <Definition Filename="Definitions\Uidefinition\FamilyInsuranceCreatePolicyProductInformationUIDefinition.zip" />
+    <Definition Filename="Definitions\Uidefinition\HomeCreatePolicyConfirmationUIDef.zip" />
+    <Definition Filename="Definitions\Uidefinition\HomeCreatePolicyDetailsUIDef.zip" />
+    <Definition Filename="Definitions\Uidefinition\HomeCreatePolicyQuickQuoteUIDef.zip" />
+    <Definition Filename="Definitions\Uidefinition\MotorCreatePolicyCarInformationUIDefinition.zip" />
+    <Definition Filename="Definitions\Uidefinition\MotorCreatePolicyInsuredsInformationUIDefinition.zip" />
+    <Definition Filename="Definitions\Uidefinition\MyZoneUIDefinition.zip" />
+    <Definition Filename="Definitions\Zonedefinition\ZoneDefinition.zip" />
+    <Definition Filename="Definitions\Zonedefinition\ZonePublicDefinition.zip" />
+  </Definitions>
+</Project>

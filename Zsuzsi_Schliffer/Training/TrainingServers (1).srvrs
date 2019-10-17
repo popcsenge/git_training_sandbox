@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServersExport xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PasswordTestField>Fg7moEPaebWZfTZfI+qWGAfq/tlLus4Ww6r0FXda3BRbEiMInDpz12sL3MQsK6kcnfNcQ2EQa/65h+iYNVNGH+7gxrcYRxzqOI2Ee5Fx2K+rzNf5EKSs5I2K+cWsw33i</PasswordTestField>
+  <ExportedServers>
+    <ExportedServer>
+      <Name>Training - 1 - APP</Name>
+      <Address>https://training-hu1.infra.innoveo-skye.net/skyeapp-admin/services/admin</Address>
+      <Username>qBrRzohAFFRLommmSvd2HJKzb81Tg8i8xNNzamgzyKx/PB7r08l8VaeD4wxwQgMz6GFP3btK0DSizIbehTXjdQJk3NZT+FzJN9nv+kX2TgMAAlGPlVKzlIC0SAiHzi+U</Username>
+      <Password>biWFRIKqA+J9U35UsBpWzeCpD1RiHELa6FEGcoVmGv5Bt68JzlticgHV4CJK3SFgT4+g5DU4wJxz8Vz4posaJj2gSjdzwMxcL6skJyiU+KapMMF0oio0JLDOT2kYdLFN</Password>
+    </ExportedServer>
+    <ExportedServer>
+      <Name>Training - 1 - UM</Name>
+      <Address>https://training-hu1.infra.innoveo-skye.net/skyeum-admin/services/admin</Address>
+      <Username>D2IGfGGQS8tIXns9T/E/BoMDOD3yZ78PAxIy/9V94Tj4PyBv8xONDYF2j6cHBQkSCdqO0IweB5nTjDVZ/d9lU77WERSJZK12wH+JrHd4DTmRx63Ckd08L1vD6mCuRoRP</Username>
+      <Password>lAiTmavC20RUdn00Au4XvRhtoeqJMNrbA0/6LeYFUR3/5ewOVIxvT7Abl/BSHQ9mO3xz4dXM2WwZ5ngxNBwx7bb68Qp+7OT1fyFx2+ObQGspyctn8jH91c3FtXhTzEK1</Password>
+    </ExportedServer>
+    <ExportedServer>
+      <Name>Training - 2 - APP</Name>
+      <Address>https://training-hu2.infra.innoveo-skye.net/skyeapp-admin/services/admin</Address>
+      <Username>b2+JwvO+38VhjFa6MZxKgEn1R+NYvZoqj9O5Z1Mikk6avXBEhAvaHkIzoc8jLDqC23PzPJY93/dzhAh3YH2wX7VLiY9KdC5arkz+Tzm7goOrSvCBsCKnvxEM2eb9pPOR</Username>
+      <Password>WvKt+XYnBvOf5HyDXKnKkA4xTgCB6SqNUDGJ9GJcHeaA9qn9GuqUunaLpwC/O9qjf6zKGrpaTaFQfj9V/TwXpJghbUPl8Tra35FOQq73uY2tvQrlzcTwwQXEujvRnzu2</Password>
+    </ExportedServer>
+    <ExportedServer>
+      <Name>Training - 2 - UM</Name>
+      <Address>https://training-hu2.infra.innoveo-skye.net/skyeum-admin/services/admin</Address>
+      <Username>lB3NHcqWN2r0vlDW8Km4NSi0WJWbhFqXrJ4w4rlXqq9CWQTYxusfeptI1AHazZBNapYKzTBW8dz0mGv2K/jrguihSranOiGPCnx42l9M48D94BUx1H3UjuUnjyUCqC8G</Username>
+      <Password>X3bvkeUV5zFY9u1EFq2QkqLkEKJTUkpKCRS3aEIpyg2Hf0MIWBIiu37qMPhefWCn/AQ/Qxm792fS5LNow2ZUt7K8zP3bFNNbXN5ESjlpm8YHIZ4mEXYhM9JwbGN8E4xe</Password>
+    </ExportedServer>
+    <ExportedServer>
+      <Name>Training - 3 - APP</Name>
+      <Address>https://training-hu3.infra.innoveo-skye.net/skyeapp-admin/services/admin</Address>
+      <Username>la/fTbPJaRnMLLhK/rVI+91jx+PTZjh8jYHpBQxvHEcyWlGpUpz3CskcFMfOK7sh7FFqP7O2sH5/NbkFafAQVj8Bd+nUFLQCEOg8dJPHaW8bOsgtrTYlsLF+fX3T1sTR</Username>
+      <Password>RgcjNnjaksFHkVcxTOdbe9t2PV6QmRlW7lJ+el/cy/a/nfIXWypJGnkdloJD3udZ4LtgX1+wm3dbZk+LVg7hdGbghy95qI2w79N3A/GPOC3qO382iZrJI5Gkl/x2wYGb</Password>
+    </ExportedServer>
+    <ExportedServer>
+      <Name>Training - 3 - UM</Name>
+      <Address>https://training-hu3.infra.innoveo-skye.net/skyeum-admin/services/admin</Address>
+      <Username>sy5C8ViYl5mjFQgxYceyzWRGg2oYwKuVmDFYgR0XauJf6dMLW1+KP5KUrOL4I7LKtHUpeHFim6Hu4OiSYMQHp7bsFLCPLgEHguhCWO83EPA8O0FpGP3UaTKERQGMYTA9</Username>
+      <Password>P0RdgEbBECEPfrJ4c0E85UUTbTUcnltNdNZlwT5LqdRtlCutHwuscTXcO6WQlfTDmDPBCB/ODK4tHcVToOzjeklYmniLos01BTWWkqVOffVV0Gz0f8Nud5qplwtbrf88</Password>
+    </ExportedServer>
+  </ExportedServers>
+</ServersExport>
