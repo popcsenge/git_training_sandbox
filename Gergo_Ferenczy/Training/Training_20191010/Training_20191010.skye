@@ -26,6 +26,7 @@
     <Definition Filename="Definitions\Uidefinition\HomeCreatePolicyDetailsUIDef.zip" />
     <Definition Filename="Definitions\Uidefinition\MotorCreatePolicyCarInformationUIDef.zip" />
     <Definition Filename="Definitions\Uidefinition\MotorCreatePolicyInsuredsInformationUIDefinition.zip" />
+    <Definition Filename="Definitions\Uidefinition\MotorCreatePolicySummaryUIDefinition.zip" />
     <Definition Filename="Definitions\Uidefinition\MyZoneUIDefinition.zip" />
     <Definition Filename="Definitions\Zonedefinition\ZoneDefinition.zip" />
     <Definition Filename="Definitions\Zonedefinition\ZonePublicDefinition.zip" />
