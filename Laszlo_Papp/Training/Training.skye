@@ -26,6 +26,7 @@
     <Definition Filename="Definitions\Uidefinition\HomeCreatePolicyQuickQuoteUIDefinition.zip" />
     <Definition Filename="Definitions\Uidefinition\MorotCreatePolicyInsuredsInformationUIDefinition.zip" />
     <Definition Filename="Definitions\Uidefinition\MotorCreatePolicyCarinformationUIDefinition.zip" />
+    <Definition Filename="Definitions\Uidefinition\MotorCreatePolicySummaryUIDefinition.zip" />
     <Definition Filename="Definitions\Uidefinition\MyZoneUIDefinition.zip" />
     <Definition Filename="Definitions\Zonedefinition\ZoneDefinition.zip" />
     <Definition Filename="Definitions\Zonedefinition\ZonePublicDefinition.zip" />
