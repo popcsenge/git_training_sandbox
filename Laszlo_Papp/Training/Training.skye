@@ -3,6 +3,7 @@
   <Definitions>
     <Definition Filename="Definitions\Application\Application.zip" />
     <Definition Filename="Definitions\Authorization\DefaultAuthorizationModel.zip" />
+    <Definition Filename="Definitions\Event\EmailEvent.zip" />
     <Definition Filename="Definitions\Floatingbutton\ContactUsFloatingButton.zip" />
     <Definition Filename="Definitions\Htmlcomponent\DashboardSection1HTMLComponent.zip" />
     <Definition Filename="Definitions\Htmlcomponent\DashboardSection2HTMLComponent.zip" />
