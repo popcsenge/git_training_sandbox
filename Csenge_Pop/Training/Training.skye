@@ -12,6 +12,7 @@
     <Definition Filename="Definitions\Productcategorization\ProductCategorization.zip" />
     <Definition Filename="Definitions\Product\FamilyInsurance.zip" />
     <Definition Filename="Definitions\Product\Home.zip" />
+    <Definition Filename="Definitions\Product\TestProduct.zip" />
     <Definition Filename="Definitions\Product\Test1Product.zip" />
     <Definition Filename="Definitions\Search\CallcenterAutomaticSearch.zip" />
     <Definition Filename="Definitions\Search\FreeTextSearch.zip" />
