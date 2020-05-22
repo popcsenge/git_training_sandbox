@@ -6,4 +6,3 @@ Agnes Csenge Pop
 Kinga Bodo
 Andrea Bonnyai-Pap
 Edvin Somogyi
-
