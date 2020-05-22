@@ -2,6 +2,8 @@
 Sandbox repo for Git training.
 
 # People who already played in this sandbox
-Csenge Pop
+Agnes Csenge Pop
 Kinga Bodo
 Andrea Bonnyai-Pap
+Edvin Somogyi
+
