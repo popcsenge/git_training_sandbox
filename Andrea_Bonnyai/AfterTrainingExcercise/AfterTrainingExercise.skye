@@ -14,6 +14,7 @@
     <Definition Filename="Definitions\Process\HomeCreatePolicy.zip" />
     <Definition Filename="Definitions\Process\HomeCreatePolicyPublic.zip" />
     <Definition Filename="Definitions\Productcategorization\ProductCategorization.zip" />
+    <Definition Filename="Definitions\Product\DrivingTuition.zip" />
     <Definition Filename="Definitions\Product\FamilyInsurance.zip" />
     <Definition Filename="Definitions\Product\Home.zip" />
     <Definition Filename="Definitions\Search\FreeTextSearch.zip" />
