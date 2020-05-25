@@ -10,7 +10,6 @@
     <Definition Filename="Definitions\Htmlcomponent\HeaderHTMLComponent.zip" />
     <Definition Filename="Definitions\Modelselectorcomponent\MyProductSelectorProductComponent.zip" />
     <Definition Filename="Definitions\Modelselectorcomponent\MyProductSelectorZoneComponent.zip" />
-    <Definition Filename="Definitions\Process\DrivingTuitionProcess.zip" />
     <Definition Filename="Definitions\Process\FamilyInsuranceCreatePolicy.zip" />
     <Definition Filename="Definitions\Process\HomeCreatePolicy.zip" />
     <Definition Filename="Definitions\Process\HomeCreatePolicyPublic.zip" />
